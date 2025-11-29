@@ -18,7 +18,7 @@ Este repositório contém toda a implementação SQL do sistema **Friend Dog Pet
     
 ---
 
-## ⚙️ Tecnologias Utilizadas
+##Tecnologias Utilizadas
 - PostgreSQL  
 - PGAdmin 4  
 - SQL (DDL + DML)
